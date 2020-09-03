@@ -1,9 +1,0 @@
-README.md
-setup.py
-example/__init__.py
-example/hello.py
-example/math.py
-example_pkg_baule8520.egg-info/PKG-INFO
-example_pkg_baule8520.egg-info/SOURCES.txt
-example_pkg_baule8520.egg-info/dependency_links.txt
-example_pkg_baule8520.egg-info/top_level.txt

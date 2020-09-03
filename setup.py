@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="example-pkg-baule8520",
-    version="0.0.3",
+    version="0.0.4",
     author="Paul Z.",
     author_email="spam@zechs.de",
     description="A small example package",
